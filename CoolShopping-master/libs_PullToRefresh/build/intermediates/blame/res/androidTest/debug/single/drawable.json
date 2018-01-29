@@ -4,23 +4,35 @@
         "source": "/Users/songlin/Downloads/CoolShopping-master/libs_PullToRefresh/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml"
     },
     {
-        "merged": "/Users/songlin/Downloads/CoolShopping-master/F:\\Study\\Android\\test\\CoolShopping\\libs_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
-        "source": "/Users/songlin/Downloads/CoolShopping-master/F:\\Study\\Android\\test\\CoolShopping\\libs_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+        "merged": "/Users/songlin/Downloads/CoolShopping-master/F:\\Study\\Android\\test\\CoolShopping\\libs_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\anim_refreshing_image.xml",
+        "source": "/Users/songlin/Downloads/CoolShopping-master/F:\\Study\\Android\\test\\CoolShopping\\libs_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\anim_refreshing_image.xml"
     },
     {
         "merged": "/Users/songlin/Downloads/CoolShopping-master/F:\\Study\\Android\\test\\CoolShopping\\libs_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
         "source": "/Users/songlin/Downloads/CoolShopping-master/F:\\Study\\Android\\test\\CoolShopping\\libs_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
     },
     {
+        "merged": "/Users/songlin/Downloads/CoolShopping-master/F:\\Study\\Android\\test\\CoolShopping\\libs_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "/Users/songlin/Downloads/CoolShopping-master/F:\\Study\\Android\\test\\CoolShopping\\libs_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/songlin/coolShooping/CoolShopping-master/libs_PullToRefresh/build/intermediates/res/merged/androidTest/debug/drawable/anim_refreshing_image.xml",
+        "source": "/Users/songlin/coolShooping/CoolShopping-master/libs_PullToRefresh/build/intermediates/bundles/debug/res/drawable/anim_refreshing_image.xml"
+    },
+    {
         "merged": "/Users/songlin/Downloads/CoolShopping-master/libs_PullToRefresh/build/intermediates/res/merged/androidTest/debug/drawable/anim_refreshing_image.xml",
         "source": "/Users/songlin/Downloads/CoolShopping-master/libs_PullToRefresh/build/intermediates/bundles/debug/res/drawable/anim_refreshing_image.xml"
+    },
+    {
+        "merged": "/Users/songlin/coolShooping/CoolShopping-master/libs_PullToRefresh/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/songlin/coolShooping/CoolShopping-master/libs_PullToRefresh/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml"
     },
     {
         "merged": "/Users/songlin/Downloads/CoolShopping-master/libs_PullToRefresh/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml",
         "source": "/Users/songlin/Downloads/CoolShopping-master/libs_PullToRefresh/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml"
     },
     {
-        "merged": "/Users/songlin/Downloads/CoolShopping-master/F:\\Study\\Android\\test\\CoolShopping\\libs_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\anim_refreshing_image.xml",
-        "source": "/Users/songlin/Downloads/CoolShopping-master/F:\\Study\\Android\\test\\CoolShopping\\libs_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\anim_refreshing_image.xml"
+        "merged": "/Users/songlin/coolShooping/CoolShopping-master/libs_PullToRefresh/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/songlin/coolShooping/CoolShopping-master/libs_PullToRefresh/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml"
     }
 ]
